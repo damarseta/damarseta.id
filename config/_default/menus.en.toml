@@ -1,0 +1,22 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+identifier = "Yv8AgwJhDB"
+weight = 9999
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 9990
+
+[[footer]]
+none = "none"
+
+# [[footer]]
+# name = "github"
+# url = "https://github.com/damarseta"
+# identifier = "awhQASDVyh"
+# weight = 9999

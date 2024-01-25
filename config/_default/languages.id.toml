@@ -1,0 +1,27 @@
+languageCode = "id"
+languageName = "Bahasa Indonesia"
+weight = 2
+title = "Damarseta"
+
+[params]
+displayName = "ID"
+isoCode = "id"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Research and Consulting"
+headline = "~"
+
+websiteidentity = "Damarseta"
+tagline = "Research and Consulting for your needs"
+websitelinks = [
+    { github = "https://github.com/damarseta" },
+]
+
+[author]
+name = "widnyana"
+bio = "Farmer | Part-time {Cloud, Infrastructure, Platform} Engineer"
+links = [
+    { twitter = "https://twitter.com/widnyana_" },
+    { github = "https://github.com/widnyana" },
+    { linkedin = "https://www.linkedin.com/in/widnyana" },
+]
